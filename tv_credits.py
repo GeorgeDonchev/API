@@ -1,7 +1,5 @@
 import requests
 
-api_key = 'eb3a7d37cbc42bb0f1598c41b1384cc7'
-
 """https://api.themoviedb.org/3/movie/550?api_key=eb3a7d37cbc42bb0f1598c41b1384cc7"""
 
 person_id = 5
