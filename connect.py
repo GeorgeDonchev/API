@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 
 
-api_key = 'eb3a7d37cbc42bb0f1598c41b1384cc7'
 
 api_version = 3
 api_base_url = f'https://api.themoviedb.org/{api_version}'
