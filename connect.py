@@ -1,8 +1,6 @@
 import pandas as pd
 import requests
 
-
-
 api_version = 3
 api_base_url = f'https://api.themoviedb.org/{api_version}'
 endpoint_path = f'/search/movie'
